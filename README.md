@@ -13,12 +13,3 @@ We can, as an example effort, even modify this README and change it as if it wer
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 ]
 
-Add tomstlsd;lfjsd;klfjsd
-sdf
-sdf
-sdf
-sdf
-d
-
-
-More good stuff
