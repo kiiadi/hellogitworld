@@ -3,3 +3,5 @@ hello there
 i'm adding some stuff
 
 to a new file
+
+well this is a pointless line
